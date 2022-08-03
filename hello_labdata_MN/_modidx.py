@@ -27,4 +27,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'user': 'MaANunes',
                 'version': '0.0.1'},
   'syms': { 'hello_labdata_MN\\core': {'hello_labdata_MN\\core.hello': 'https://MaANunes.github.io/hello_labdata_MN/hello_labdata_MN\\core.html#hello'},
-            'hello_labdata_MN\\greetings': { 'hello_labdata_MN\\greetings.hello': 'https://MaANunes.github.io/hello_labdata_MN/hello_labdata_MN\\greetings.html#hello'}}}
+            'hello_labdata_MN\\greetings': { 'hello_labdata_MN\\greetings.hello': 'https://MaANunes.github.io/hello_labdata_MN/hello_labdata_MN\\greetings.html#hello'},
+            'hello_labdata_MN\\jokes': {'hello_labdata_MN\\jokes.hello': 'https://MaANunes.github.io/hello_labdata_MN/hello_labdata_MN\\jokes.html#hello'}}}
