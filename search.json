@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "Greetings",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\ncomo utilizar:\n\nhello(to=\"Rejane\")\n\n'Hi Rejane!'"
+  },
+  {
+    "objectID": "greetings.html",
+    "href": "greetings.html",
+    "title": "module name here",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\ncomo utilizar:\n\nhello(to=\"Rejane\")\n\n'Hi Rejane!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello_labdata_MN",
+    "section": "",
+    "text": "pip install hello_labdata_MN"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hello_labdata_MN",
+    "section": "How to use",
+    "text": "How to use\nUse esse pacote para cumprimentar as pessoas:\n\nhello(to=\"Maria\")\n\n'Hi Maria!'"
+  },
+  {
+    "objectID": "jokes.html",
+    "href": "jokes.html",
+    "title": "Jokes",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\ncomo utilizar:\n\nhello(to=\"Rejane\")\n\n'Palmeiras'"
+  }
+]
